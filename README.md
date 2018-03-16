@@ -1,6 +1,6 @@
 # Coder Dark Theme
 ### Is a Visual Studio Studio Dark Theme to bring a black edition code editing experience with Alien color. Enjoy :)
-optional you can install the Material Icon Theme by Philipp Kief https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme 
+optional you can install the Material Icon Theme by Philipp Kief https://goo.gl/cdQdDQ
 
 Paste the following command and press `Enter`:
 ```shell
