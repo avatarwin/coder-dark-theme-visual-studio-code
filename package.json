@@ -1,0 +1,51 @@
+{
+    "name": "coder-dark-theme-visual-studio-code",
+    "displayName": "Coder Dark Theme",
+    "description": "A Dark theme for Visual Studio Code",
+    "version": "0.1.0", 
+    "publisher": "perubin",
+    "author": {
+		"name": "Peter Rubin",
+		"email": "peter.rubin@windowslive.com"
+    },
+    "homepage": "https://github.com/perubin/coder-dark-theme.git",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/perubin/coder-dark-theme.git"
+	},
+	"bugs": {
+		"url": "https://github.com/perubin/coder-dark-theme/issues"
+	},
+	"license": "Apache 2.0",
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "galleryBanner": {
+		"color": "#c0c0c0",
+		"theme": "dark"
+	},
+	"icon": "assets/coder-dark-theme-icon.png",
+	"markdown": "github",
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"black",
+		"alien",
+		"dark",
+		"theme",
+        "coder",
+        "green",
+        "violet",
+        "purple"
+	],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Coder Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Coder Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
