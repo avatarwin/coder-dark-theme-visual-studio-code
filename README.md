@@ -1,5 +1,5 @@
 # Coder Dark Theme
-### Is a Visual Studio Studio Dark Theme to bring a black edition code editing experience with Alien color. Enjoy :)
+### Is a Visual Studio Studio Dark Theme to bring a black edition code editing experience with Alien colors. Enjoy :)
 optional you can install the Material Icon Theme by Philipp Kief https://goo.gl/cdQdDQ
 
 Paste the following command and press `Enter`:
@@ -20,8 +20,11 @@ If you want to change any color, you can use the setting `workbench.colorCustomi
 }
 ```
 # ScreenShots
+### HTML
 ![ScreenShot](https://raw.githubusercontent.com/perubin/coder-dark-theme-visual-studio-code/master/assets/ss1.png)
-
+### CSS
 ![ScreenShot](https://raw.githubusercontent.com/perubin/coder-dark-theme-visual-studio-code/master/assets/ss2.png)
-
+### Typescript / Javascript
 ![ScreenShot](https://raw.githubusercontent.com/perubin/coder-dark-theme-visual-studio-code/master/assets/ss3.png)
+### Json
+![ScreenShot](https://raw.githubusercontent.com/perubin/coder-dark-theme-visual-studio-code/master/assets/ss4.png)
