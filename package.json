@@ -3,7 +3,7 @@
     "displayName": "Coder Dark Theme",
     "description": "A Dark theme for Visual Studio Code",
     "version": "0.1.0", 
-    "publisher": "perubin",
+    "publisher": "perubin-CH-0507",
     "author": {
 		"name": "Peter Rubin",
 		"email": "peter.rubin@windowslive.com"
@@ -34,10 +34,7 @@
 		"alien",
 		"dark",
 		"theme",
-        "coder",
-        "green",
-        "violet",
-        "purple"
+        "coder"
 	],
     "contributes": {
         "themes": [
