@@ -1,11 +1,7 @@
 # Coder Dark Theme
 ### Is a Visual Studio Studio Dark Theme with Alien colors. Enjoy :)
-optional you can install the Material Icon Theme by Philipp Kief https://goo.gl/cdQdDQ
+Optional you can install the Material Icon Theme by Philipp Kief https://goo.gl/cdQdDQ
 
-Paste the following command and press `Enter`:
-```shell
-ext install coder-dark-theme-visual-studio-code
-```
 # CHANGELOG
 [CHANGELOG.MD](https://github.com/perubin/coder-dark-theme-visual-studio-code/blob/master/CHANGELOG.md)
 
