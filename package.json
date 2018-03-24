@@ -8,20 +8,20 @@
 		"name": "Peter Rubin",
 		"email": "peter.rubin@windowslive.com"
     },
-    "homepage": "https://github.com/perubin/coder-dark-theme.git",
+    "homepage": "https://github.com/perubin/coder-dark-theme-visual-studio-code",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/perubin/coder-dark-theme.git"
+		"url": "https://github.com/perubin/coder-dark-theme-visual-studio-code"
 	},
 	"bugs": {
-		"url": "https://github.com/perubin/coder-dark-theme/issues"
+		"url": "https://github.com/perubin/coder-dark-theme-visual-studio-code"
 	},
 	"license": "Apache 2.0",
     "engines": {
         "vscode": "^1.21.0"
     },
     "galleryBanner": {
-		"color": "#c0c0c0",
+		"color": "#921c81",
 		"theme": "dark"
 	},
 	"icon": "assets/coder-dark-theme-icon.png",
